@@ -45,6 +45,7 @@
 		9C42CAE526988F0F00F0799A /* ManyAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ManyAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C42CAE926988F0F00F0799A /* ManyAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManyAnimationUITests.swift; sourceTree = "<group>"; };
 		9C42CAEB26988F0F00F0799A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C42CAF7269891E900F0799A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		9C42CAC026988F0E00F0799A = {
 			isa = PBXGroup;
 			children = (
+				9C42CAF7269891E900F0799A /* README.md */,
 				9C42CACB26988F0E00F0799A /* ManyAnimation */,
 				9C42CADD26988F0F00F0799A /* ManyAnimationTests */,
 				9C42CAE826988F0F00F0799A /* ManyAnimationUITests */,
